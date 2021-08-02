@@ -1,0 +1,4 @@
+HD Wallet
+==================
+Mnemonic:      rebel net pyramid neck private denial exact peace near oyster civil flat
+Base HD Path:  m/44'/60'/0'/0/{account_index}
